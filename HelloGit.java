@@ -3,6 +3,6 @@ public class HelloGit {
 		System.out.println("Hello, Git and World!");
 		System.out.println("Master");
 		System.out.println("Hotfix");
-                System.out.println("Add in web browser.");
+                System.out.println("Added by bingkuncao");
 	}
 }
