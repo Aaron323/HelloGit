@@ -4,5 +4,6 @@ public class HelloGit {
 		System.out.println("Master");
 		System.out.println("Hotfix");
                 System.out.println("Added by bingkuncao");
+		System.out.println("Added by cao-bingkun");
 	}
 }
